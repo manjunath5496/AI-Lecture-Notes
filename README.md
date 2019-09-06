@@ -33,9 +33,19 @@
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(24).pdf" style="text-decoration:none;">Artificial Intelligence - MIT </a></b></li>
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(14).pdf" style="text-decoration:none;">Artificial Intelligence Lecture Notes </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(18).pdf" style="text-decoration:none;">Lecture Notes in Artificial Intelligence: Contemporary Knowledge Engineering and Cognition </a></b></li>
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(25).pdf" style="text-decoration:none;">Artificial Intelligence (Künstliche Intelligenz) Lecture Notes </a></b></li>
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(26).pdf" style="text-decoration:none;">15-381: Artificial Intelligence - Introduction and Overview </a></b></li>
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(27).pdf" style="text-decoration:none;">Python code for Artificial Intelligence: Foundations of Computational Agents </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(28).pdf" style="text-decoration:none;">Introduction to Computer Vision </a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(30).rar" style="text-decoration:none;">Deep Learning </a></b></li> 
  
  
  
