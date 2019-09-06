@@ -1,10 +1,10 @@
 <ul>
 
                              
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(1).pdf" style="text-decoration:none;">Pharmaceutical Manufacturing Encyclopedia</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(2).pdf" style="text-decoration:none;">Encyclopedia of Soils in the Environment  </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(3).pdf" style="text-decoration:none;">Encyclopedia of Geomorphology</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(4).pdf" style="text-decoration:none;">The Gale Encyclopedia of Surgery: A Guide for Patients and Caregivers</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(1).pdf" style="text-decoration:none;">Artificial Intelligence</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(2).pdf" style="text-decoration:none;">CSC384: Introduction to Artificial Intelligence  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(3).pdf" style="text-decoration:none;">CptS 440 / 540 Artificial Intelligence: Introduction</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(4).pdf" style="text-decoration:none;">CS3243 Foundations Of Artificial Intelligence</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(5).pdf" style="text-decoration:none;">Encyclopedia of Pest Management</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(6).pdf" style="text-decoration:none;">The Gale encyclopedia of psychology</a></b></li>
  
