@@ -5,11 +5,11 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(2).pdf" style="text-decoration:none;">CSC384: Introduction to Artificial Intelligence  </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(3).pdf" style="text-decoration:none;">CptS 440 / 540 Artificial Intelligence: Introduction</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(4).pdf" style="text-decoration:none;">CS3243 Foundations Of Artificial Intelligence</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(5).pdf" style="text-decoration:none;">Encyclopedia of Pest Management</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(6).pdf" style="text-decoration:none;">The Gale encyclopedia of psychology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(5).pdf" style="text-decoration:none;">CMSC471/671 Artificial Intelligence</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(6).pdf" style="text-decoration:none;">Introduction to Neural Networks and Deep Learning</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(7).pdf" style="text-decoration:none;">The Gale Encyclopedia of Alternative Medicine</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(8).pdf" style="text-decoration:none;">Encyclopedia of Sex and Gender </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(7).pdf" style="text-decoration:none;">Lecture Notes in Artificial Intelligence</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(8).pdf" style="text-decoration:none;">CSE176 Introduction to Machine Learning — Lecture notes </a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(9).pdf" style="text-decoration:none;">Biology, Vol. 4 (Pr-Z)</a></b></li>                             
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(10).pdf" style="text-decoration:none;">Encyclopedia of Religion </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(11).pdf" style="text-decoration:none;">Encyclopedia of Computer Science and Technology</a></b></li>
