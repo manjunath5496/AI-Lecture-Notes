@@ -47,6 +47,25 @@
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/ail(30).rar" style="text-decoration:none;">Deep Learning </a></b></li> 
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/ail(29).pdf" style="text-decoration:none;">The Robot and I: How New Digital Technologies Are Making Smart People and Businesses Smarter by Automating Rote Work </a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/ail(31).pdf" style="text-decoration:none;">Artificial Intelligence And Life In 2030 </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/ail(32).pdf" style="text-decoration:none;">Research Priorities for Robust and Beneficial Artificial Intelligence </a></b></li> 
+ 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/ail(33).pdf" style="text-decoration:none;">Artificial Intelligence as a Positive and Negative Factor in Global Risk</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/ail(34).pdf" style="text-decoration:none;">Artificial Intelligence, Robotics, Privacy and Data Protection </a></b></li> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
   </ul>
