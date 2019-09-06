@@ -8,7 +8,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(5).pdf" style="text-decoration:none;">CMSC471/671 Artificial Intelligence</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(6).pdf" style="text-decoration:none;">Introduction to Neural Networks and Deep Learning</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(7).pdf" style="text-decoration:none;">Lecture Notes in Artificial Intelligence</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(7).pdf" style="text-decoration:none;">Lecture Notes in Artificial Intelligence: Engineering Societies in the Agents World V</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(8).pdf" style="text-decoration:none;">CSE176 Introduction to Machine Learning — Lecture notes </a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(9).pdf" style="text-decoration:none;">Mathematics for Machine Learning</a></b></li>                             
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(10).pdf" style="text-decoration:none;">Lectures on Machine Learning: From artificial intelligence to machine learning </a></b></li>                              
