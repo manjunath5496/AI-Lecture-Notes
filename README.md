@@ -17,7 +17,7 @@
                <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(13).pdf" style="text-decoration:none;">Introduction to Artificial Intelligence</a></b></li>
                               
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(15).pdf" style="text-decoration:none;">Machine Learning and Data Mining Lecture Notes</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(16).pdf" style="text-decoration:none;">Artificial Intelligence - Indian Institute of Technology, Kharagpur</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(16).pdf" style="text-decoration:none;">Artificial Intelligence - IIT</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/ncy(17).pdf" style="text-decoration:none;">Statistical Machine Learning </a></b></li>                              
 
