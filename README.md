@@ -257,8 +257,16 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(111).pdf" style="text-decoration:none;">Human-level control through deep reinforcement learning </a></b></li> 
  
   
-  
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(112).pdf" style="text-decoration:none;">A (Very) Brief History of Artificial Intelligence</a></b></li> 
  
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(113).pdf" style="text-decoration:none;">History Of Artificial Intelligence (AI)</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(114).pdf" style="text-decoration:none;">Machine Learning In Self-driving Tesla Automobiles </a></b></li> 
+   
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(115).pdf" style="text-decoration:none;">Human Side of Tesla Autopilot: Exploration of Functional Vigilance in Real-World Human-Machine Collaboration </a></b></li> 
  
  
  
