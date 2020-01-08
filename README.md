@@ -171,7 +171,50 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(66).pdf" style="text-decoration:none;">Explaining Explanations: An Overview of Interpretability of Machine Learning</a></b></li> 
  
  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(67).pdf" style="text-decoration:none;">RISE: Randomized Input Sampling for Explanation of Black-box Models</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(68).pdf" style="text-decoration:none;">Explaining Image Classifiers by Counterfactual Generation</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(69).pdf" style="text-decoration:none;">Diverse feature visualizations reveal invariances in early layers of deep neural networks</a></b></li>
+               <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(70).pdf" style="text-decoration:none;">Regional Multi-scale Approach for Visually Pleasing Explanations of Deep Neural Networks</a></b></li>
+               <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(71).pdf" style="text-decoration:none;">Improving the Interpretability of Deep Neural Networks with Knowledge Distillation</a></b></li>                             
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(72).pdf" style="text-decoration:none;">Interpretable machine learning: definitions, methods, and applications</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(73).pdf" style="text-decoration:none;">On the (In)fidelity and Sensitivity of Explanations</a></b></li>
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(74).pdf" style="text-decoration:none;">Interpreting Black Box Models via Hypothesis Testing </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(75).pdf" style="text-decoration:none;">Counterfactual Visual Explanations</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(76).pdf" style="text-decoration:none;">Understanding Neural Networks via Feature Visualization: A survey </a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(77).pdf" style="text-decoration:none;">Visualizing Deep Networks by Optimizing with Integrated Gradients </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(78).pdf" style="text-decoration:none;">Smooth Grad-CAM++: An Enhanced Inference Level Visualization Technique for Deep Convolutional Neural Network Models </a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(79).pdf" style="text-decoration:none;">A Unified Approach to Interpreting Model Predictions</a></b></li>
+
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(80).pdf" style="text-decoration:none;">Interpreting Neural Network Judgments via Minimal, Stable, and Symbolic Corrections</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(81).pdf" style="text-decoration:none;">Sanity Checks for Saliency Maps</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(82).pdf" style="text-decoration:none;">PythonRobotics: a Python code collection of robotics algorithms</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(83).pdf" style="text-decoration:none;">A.I. as an Introduction to Research Methods in Computer Science</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(84).pdf" style="text-decoration:none;">Leibniz: Explanation of Binary Arithmetic (1703)</a></b></li>
+ 
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(85).pdf" style="text-decoration:none;">The Mathematical Analysis of Logic</a></b></li> 
+ 
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(86).pdf" style="text-decoration:none;">On formally undecidable propositions of Principia Mathematica and related systems I</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(87).pdf" style="text-decoration:none;">On Computable Numbers, with an Application to the Entscheidungsproblem </a></b></li> 
+ 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(88).pdf" style="text-decoration:none;">A Logical Calculus of the Ideas Immanent in Nervous Activity</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(89).pdf" style="text-decoration:none;">The First Draft of a Report on the EDVAC</a></b></li> 
+ 
+ 
  
  
  
