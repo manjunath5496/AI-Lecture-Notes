@@ -215,7 +215,49 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(89).pdf" style="text-decoration:none;">The First Draft of a Report on the EDVAC</a></b></li> 
  
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(90).pdf" style="text-decoration:none;">Computing Machinery and Intelligence</a></b></li> 
  
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(91).pdf" style="text-decoration:none;"> Statistical and inductive probability</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(92).pdf" style="text-decoration:none;">Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(93).pdf" style="text-decoration:none;">Steps Toward Artificial Intelligence</a></b></li>
+               <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(94).pdf" style="text-decoration:none;">The Working Set Model for Program</a></b></li>
+               <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(95).pdf" style="text-decoration:none;">Human problem solving: The state of the theory in 1970</a></b></li>                             
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(96).pdf" style="text-decoration:none;"> Computer Science as Empirical Inquiry: Symbols and Search</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(97).pdf" style="text-decoration:none;">The Knowledge Level</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(98).pdf" style="text-decoration:none;">Parallel Distributed Processing, Explorations in the microstructure of Cognition, Volume 1: Foundations</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(99).pdf" style="text-decoration:none;">Intelligence without representation</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(100).pdf" style="text-decoration:none;">Genetic Algorithms for Multiobjective Optimization: Formulation, Discussion and Generalization</a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(101).pdf" style="text-decoration:none;">Gradient-Based Learning Applied to Document Recognition </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(102).pdf" style="text-decoration:none;">The PageRank Citation Ranking: Bringing Order to the Web </a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(103).pdf" style="text-decoration:none;">A Neural Probabilistic Language Model</a></b></li>
+
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(104).pdf" style="text-decoration:none;">Deep Learning of Representations: Looking Forward</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(105).pdf" style="text-decoration:none;">Learning Deep Architectures for AI</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(106).pdf" style="text-decoration:none;">Wikipedia-based Semantic Interpretation for Natural Language Processing</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(107).pdf" style="text-decoration:none;">YAGO2: A Spatially and Temporally Enhanced Knowledge Base from Wikipedia</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(108).pdf" style="text-decoration:none;">Adaptive Submodularity: Theory and Applications in Active Learning and Stochastic Optimization</a></b></li>
+ 
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(109).pdf" style="text-decoration:none;">Playing Atari with Deep Reinforcement Learning</a></b></li> 
+ 
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(110).pdf" style="text-decoration:none;">DeepFace: Closing the Gap to Human-Level Performance in Face Verification</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(111).pdf" style="text-decoration:none;">Human-level control through deep reinforcement learning </a></b></li> 
+ 
+  
+  
  
  
  
