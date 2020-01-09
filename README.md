@@ -57,7 +57,7 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/ail(33).pdf" style="text-decoration:none;">Artificial Intelligence as a Positive and Negative Factor in Global Risk</a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/ail(34).pdf" style="text-decoration:none;">Artificial Intelligence, Robotics, Privacy and Data Protection </a></b></li> 
- 
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Lectures/blob/master/README.md" style="text-decoration:none;">Machine Learning Lectures </a></b></li>
                           
  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(1).pdf" style="text-decoration:none;">Artificial Intelligence and Human Thinking</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(2).pdf" style="text-decoration:none;">Artificial Intelligence and its Role in Near Future  </a></b></li>
