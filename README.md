@@ -93,7 +93,7 @@
 <p>In the twenty-first century, AI techniques have experienced a resurgence following concurrent advances in&nbsp;<a title="Computer performance" href="https://en.wikipedia.org/wiki/Computer_performance">computer power</a>, large amounts of&nbsp;<a title="Big data" href="https://en.wikipedia.org/wiki/Big_data">data</a>, and theoretical understanding; and AI techniques have become an essential part of the&nbsp;<a class="mw-redirect" title="Technology industry" href="https://en.wikipedia.org/wiki/Technology_industry">technology industry</a>, helping to solve many challenging problems in computer science,&nbsp;<a title="Software engineering" href="https://en.wikipedia.org/wiki/Software_engineering">software engineering</a>&nbsp;and&nbsp;<a title="Operations research" href="https://en.wikipedia.org/wiki/Operations_research">operations research</a>.</p>
 </br>
 
-
+<h2>Lectures </h2> 
 
 
 <ul>
