@@ -1,5 +1,89 @@
-
-
+<table class="vertical-navbox nowraplinks">
+<tbody>
+<tr>
+<th><a title="Outline of artificial intelligence" href="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence">Artificial intelligence</a></th>
+</tr>
+<tr>
+<th><a title="Artificial intelligence" href="https://en.wikipedia.org/wiki/Artificial_intelligence#Goals">Major goals</a></th>
+</tr>
+<tr>
+<td class="plainlist">
+<ul>
+<li><a title="Knowledge representation and reasoning" href="https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning">Knowledge reasoning</a></li>
+<li><a title="Automated planning and scheduling" href="https://en.wikipedia.org/wiki/Automated_planning_and_scheduling">Planning</a></li>
+<li><a title="Machine learning" href="https://en.wikipedia.org/wiki/Machine_learning">Machine learning</a></li>
+<li><a title="Natural language processing" href="https://en.wikipedia.org/wiki/Natural_language_processing">Natural language processing</a></li>
+<li><a title="Computer vision" href="https://en.wikipedia.org/wiki/Computer_vision">Computer vision</a></li>
+<li><a title="Robotics" href="https://en.wikipedia.org/wiki/Robotics">Robotics</a></li>
+<li><a title="Artificial general intelligence" href="https://en.wikipedia.org/wiki/Artificial_general_intelligence">Artificial general intelligence</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>Approaches</th>
+</tr>
+<tr>
+<td class="plainlist">
+<ul>
+<li><a title="Symbolic artificial intelligence" href="https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence">Symbolic</a></li>
+<li><a title="Deep learning" href="https://en.wikipedia.org/wiki/Deep_learning">Deep learning</a></li>
+<li><a title="Bayesian network" href="https://en.wikipedia.org/wiki/Bayesian_network">Bayesian networks</a></li>
+<li><a title="Evolutionary algorithm" href="https://en.wikipedia.org/wiki/Evolutionary_algorithm">Evolutionary algorithms</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><a title="Philosophy of artificial intelligence" href="https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence">Philosophy</a></th>
+</tr>
+<tr>
+<td class="plainlist">
+<ul>
+<li><a title="Ethics of artificial intelligence" href="https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence">Ethics</a></li>
+<li><a title="Existential risk from artificial general intelligence" href="https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence">Existential risk</a></li>
+<li><a title="Turing test" href="https://en.wikipedia.org/wiki/Turing_test">Turing test</a></li>
+<li><a title="Chinese room" href="https://en.wikipedia.org/wiki/Chinese_room">Chinese room</a></li>
+<li><a title="AI control problem" href="https://en.wikipedia.org/wiki/AI_control_problem">Control problem</a></li>
+<li><a title="Friendly artificial intelligence" href="https://en.wikipedia.org/wiki/Friendly_artificial_intelligence">Friendly AI</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th><a title="History of artificial intelligence" href="https://en.wikipedia.org/wiki/History_of_artificial_intelligence">History</a></th>
+</tr>
+<tr>
+<td class="plainlist">
+<ul>
+<li><a title="Timeline of artificial intelligence" href="https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence">Timeline</a></li>
+<li><a title="Progress in artificial intelligence" href="https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence">Progress</a></li>
+<li><a title="AI winter" href="https://en.wikipedia.org/wiki/AI_winter">AI winter</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>Technology</th>
+</tr>
+<tr>
+<td class="plainlist">
+<ul>
+<li><a title="Applications of artificial intelligence" href="https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence">Applications</a></li>
+<li><a title="List of artificial intelligence projects" href="https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects">Projects</a></li>
+<li><a title="List of programming languages for artificial intelligence" href="https://en.wikipedia.org/wiki/List_of_programming_languages_for_artificial_intelligence">Programming languages</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th>Glossary</th>
+</tr>
+<tr>
+<td class="plainlist">
+<ul>
+<li><a title="Glossary of artificial intelligence" href="https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence">Glossary</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 <p>In&nbsp;<a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">computer science</a>,&nbsp;<strong>artificial intelligence</strong>&nbsp;(<strong>AI</strong>), sometimes called&nbsp;<strong>machine intelligence</strong>, is&nbsp;<a title="Intelligence" href="https://en.wikipedia.org/wiki/Intelligence">intelligence</a>&nbsp;demonstrated by&nbsp;<a title="Machine" href="https://en.wikipedia.org/wiki/Machine">machines</a>, in contrast to the&nbsp;<strong>natural intelligence</strong>&nbsp;displayed by&nbsp;<a title="Human intelligence" href="https://en.wikipedia.org/wiki/Human_intelligence">humans</a>&nbsp;and&nbsp;<a title="Animal cognition" href="https://en.wikipedia.org/wiki/Animal_cognition">animals</a>. Leading AI textbooks define the field as the study of "<a title="Intelligent agent" href="https://en.wikipedia.org/wiki/Intelligent_agent">intelligent agents</a>": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.&nbsp;Colloquially, the term "artificial intelligence" is often used to describe machines (or computers) that mimic "cognitive" functions that humans associate with the&nbsp;<a class="mw-redirect" title="Human mind" href="https://en.wikipedia.org/wiki/Human_mind">human mind</a>, such as "learning" and "problem solving".</p>
 <p>As machines become increasingly capable, tasks considered to require "intelligence" are often removed from the definition of AI, a phenomenon known as the&nbsp;<a title="AI effect" href="https://en.wikipedia.org/wiki/AI_effect">AI effect</a>.&nbsp;A quip in Tesler's Theorem says "AI is whatever hasn't been done yet."&nbsp;For instance,&nbsp;<a title="Optical character recognition" href="https://en.wikipedia.org/wiki/Optical_character_recognition">optical character recognition</a>&nbsp;is frequently excluded from things considered to be AI,&nbsp;having become a routine technology.&nbsp;Modern machine capabilities generally classified as AI include successfully&nbsp;<a class="mw-redirect" title="Natural language understanding" href="https://en.wikipedia.org/wiki/Natural_language_understanding">understanding human speech</a>,&nbsp;competing at the highest level in&nbsp;<a class="mw-redirect" title="Strategic game" href="https://en.wikipedia.org/wiki/Strategic_game">strategic game</a>&nbsp;systems (such as&nbsp;<a title="Chess" href="https://en.wikipedia.org/wiki/Chess">chess</a>&nbsp;and&nbsp;<a title="Go (game)" href="https://en.wikipedia.org/wiki/Go_(game)">Go</a>),&nbsp;<a class="mw-redirect" title="Autonomous car" href="https://en.wikipedia.org/wiki/Autonomous_car">autonomously operating cars</a>, intelligent routing in&nbsp;<a title="Content delivery network" href="https://en.wikipedia.org/wiki/Content_delivery_network">content delivery networks</a>, and&nbsp;<a class="mw-redirect" title="Military simulations" href="https://en.wikipedia.org/wiki/Military_simulations">military simulations</a>.</p>
