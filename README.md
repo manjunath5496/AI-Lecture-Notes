@@ -1005,8 +1005,56 @@ reinforcement algorithm</a></li>
  
  </ul>
 
+ </br>
  
  
+ 
+<h2>Lecture Notes </h2>
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(1).pdf" style="text-decoration:none;">Exercise Sheet 1</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(2).pdf" style="text-decoration:none;">Exercise Sheet 2</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(3).pdf" style="text-decoration:none;">Exercise Sheet 3</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(4).pdf" style="text-decoration:none;">Exercise Sheet 4</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(5).pdf" style="text-decoration:none;">Introduction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(6).pdf" style="text-decoration:none;">Linear regression</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(7).pdf" style="text-decoration:none;">Maximum Likelihood</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(8).pdf" style="text-decoration:none;"> Nonlinear ridge regression
+Risk, regularization, and cross-validation </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(9).pdf" style="text-decoration:none;">Optimization</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(10).pdf" style="text-decoration:none;">Logistic regression: a simple ANN </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(11).pdf" style="text-decoration:none;">Backpropagation: A modular approach
+(Torch NN)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(12).pdf" style="text-decoration:none;">Neural networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(13).pdf" style="text-decoration:none;">Convnets</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(14).pdf" style="text-decoration:none;">Max-margin learning</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(15).pdf" style="text-decoration:none;">Recurrent nets and LSTM</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(16).pdf" style="text-decoration:none;">Reinforcement learning</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(17).pdf" style="text-decoration:none;">Introduction to Lua and Torch</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(18).pdf" style="text-decoration:none;">Linear models</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(19).pdf" style="text-decoration:none;">Classifying digits and tuning optimizers</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(20).pdf" style="text-decoration:none;">Implementing your own layer</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(21).pdf" style="text-decoration:none;">nngraph</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/oxf(22).pdf" style="text-decoration:none;">Practical 6: LSTMs for language modelling</a></li> 
+ </ul>
  
  
  
